@@ -23,7 +23,7 @@ pip3 install scikit-learn pandas numpy scipy statsmodels matplotlib seaborn sqla
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/proyecto_capstone_ec12.git
+   git clone https://github.com/patoayerve/PROYECTO_CAPSTONE_EC12.git
    cd proyecto_capstone_ec12
    ```
 

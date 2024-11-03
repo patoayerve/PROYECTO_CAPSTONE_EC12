@@ -1,7 +1,7 @@
 # PROYECTO_CAPSTONE_EC12
 PROYECTO CAPSTONE EC12
 
-INTEGRANTES:
+AUTORES:
 
 - Cesar Ayerve
 - Lizeth Peña
@@ -20,14 +20,14 @@ pip3 install scikit-learn pandas numpy scipy statsmodels matplotlib seaborn sqla
 
 ## Ejecución del Notebook
 
-1. **Clona el repositorio:**
+1. **Clonar el repositorio:**
 
    ```bash
    git clone https://github.com/patoayerve/PROYECTO_CAPSTONE_EC12.git
    cd proyecto_capstone_ec12
    ```
 
-2. **Instala las dependencias:**
+2. **Instalar las dependencias:**
 
    Ejecuta el siguiente comando para instalar las dependencias necesarias.
 
@@ -35,7 +35,7 @@ pip3 install scikit-learn pandas numpy scipy statsmodels matplotlib seaborn sqla
    pip3 install scikit-learn pandas numpy scipy statsmodels matplotlib seaborn sqlalchemy ipython pyodbc joblib
    ```
 
-3. **Ejecuta el Jupyter Notebook:**
+3. **Ejecutar el Jupyter Notebook:**
 
    Inicia Jupyter Notebook desde el directorio del proyecto:
 
